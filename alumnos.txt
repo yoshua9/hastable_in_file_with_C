@@ -1,0 +1,3 @@
+#nombre;id;matriculado;telefono;email;
+pepe;1;si;666666666;pepe@email.com;
+juan2;2;no;1;k;
