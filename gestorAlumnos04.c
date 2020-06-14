@@ -1,9 +1,3 @@
-/************************************************************
-Autor: Grupo 4
-Fecha: 15/06/2020
-Asignatura: Estructura de Datos y Algoritmos, curso 19/20
-************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
